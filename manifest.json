@@ -1,0 +1,20 @@
+{
+  "short_name": "APP JUEGO",
+  "name": "APP JUEGO",
+  "icons": [
+    {
+      "src": "https://img.freepik.com/vector-premium/plantilla-icono-vector-logo-diablo-rojo_487414-84.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    },
+    {
+      "src": "https://pngimg.com/d/diablo_PNG15.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/juego/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
